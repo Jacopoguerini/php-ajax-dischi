@@ -5,38 +5,70 @@
     padding: 0;
 }
 
+body {
+    font-family: 'Noto Sans', sans-serif;
+}
+
 main {
     height: 100vh;
     display: flex;
     align-items: center;
+    background-image: url("https://images2.corriereobjects.it/methode_image/2015/02/05/Spettacoli/Foto%20Gallery/21%20olycom.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: black;
 }
 
 .container {
     width: 70%;
     margin: 0 auto;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
-    padding: 40px;
+    padding: 0 40px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    box-shadow: 0 0 5px black;
 }
 
 .album {
-    width: 19%;
-    min-height: 280px;
+    width: 18%;
+    height: 300px;
     padding: 20px 10px;
     display: flex;
     flex-direction: column;
     align-items: center;
     text-align: center;
-    margin-bottom: 15px;
+    margin: 20px 0;
+    background-color: rgba(169, 169, 169, 0.7);
+    border-radius: 5px;
+    box-shadow: 0 0 10px lightgray;
 }
 .details {
     padding: 0 10px;
 }
 
 img {
-    width: 150px;
+    width: 130px;
     margin-bottom: 15px;
     cursor: pointer;
+}
+
+h3 {
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+h4 {
+    font-size: 14px;
+    margin-bottom: 3px;
+}
+h5 {
+    font-size: 12px;
+    font-style: italic;
+    margin-bottom: 2px;
+}
+h6 {
+    font-size: 12px;
 }
