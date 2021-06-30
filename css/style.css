@@ -1,0 +1,42 @@
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.container {
+    width: 70%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 40px;
+}
+
+.album {
+    width: 19%;
+    min-height: 280px;
+    padding: 20px 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.details {
+    padding: 0 10px;
+}
+
+img {
+    width: 150px;
+    margin-bottom: 15px;
+    cursor: pointer;
+}

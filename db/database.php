@@ -2,74 +2,74 @@
 
     $albums = [
         [
-            "poster" => "https://www.onstageweb.com/wp-content/uploads/2018/09/bon-jovi-new-jersey.jpg",
-            "title" => "New Jersey",
-            "author" => "Bon Jovi",
-            "genre" => "Rock",
-            "year" => "1988"
+            "poster" => "https://upload.wikimedia.org/wikipedia/en/1/1c/Elton_John_-_Diamonds.jpg",
+            "title" => "Diamonds",
+            "author" => "Elton John",
+            "genre" => "Pop Rock",
+            "year" => "2017"
         ],
         [
-            "poster" => "https://img.discogs.com/vknPDdrqRbT92pNRX0W4I5N91jg=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1246953-1448927086-6590.jpeg.jpg",
-            "title" => "Live at Wembley 86",
-            "author" => "Queen",
-            "genre" => "Pop",
-            "year" => "1992"
+            "poster" => "https://images-na.ssl-images-amazon.com/images/I/814WAZ5-drL._AC_SY450_.jpg",
+            "title" => "Exuvia",
+            "author" => "Caparezza",
+            "genre" => "Alternative Hip Hop",
+            "year" => "2021"
         ],
         [
-            "poster" => "https://images-na.ssl-images-amazon.com/images/I/41JD3CW65HL.jpg",
-            "title" => "Ten's Summoner's Tales",
-            "author" => "Sting",
-            "genre" => "Pop",
+            "poster" => "https://images-eu.ssl-images-amazon.com/images/I/51yJ4ZVYQzL._SY445_SX342_QL70_ML2_.jpg",
+            "title" => "Anthology - Le Nostre Anime",
+            "author" => "Franco Battiato",
+            "genre" => "Musica d'Autore",
+            "year" => "2015"
+        ],
+        [
+            "poster" => "https://images-na.ssl-images-amazon.com/images/I/81BOaYiKa1L._AC_SY355_.jpg",
+            "title" => "Scaled and Icy",
+            "author" => "Twenty One Pilots",
+            "genre" => "Alternative Hip Hop",
+            "year" => "2021"
+        ],
+        [
+            "poster" => "https://upload.wikimedia.org/wikipedia/en/6/63/SnoopDoggyDoggDoggystyle.jpg",
+            "title" => "Doggystyle",
+            "author" => "Snoop Dogg",
+            "genre" => "West Coast Hip Hop",
             "year" => "1993"
         ],
         [
-            "poster" => "https://cdn2.jazztimes.com/2018/05/SteveGadd-800x723.jpg",
-            "title" => "Steve Gadd Band",
-            "author" => "Steve Gadd Band",
-            "genre" => "Jazz",
-            "year" => "2018"
+            "poster" => "https://images-eu.ssl-images-amazon.com/images/I/71%2BcTHnVNJL.__AC_SX300_SY300_QL70_ML2_.jpg",
+            "title" => "Non al denaro non all'amore né al cielo",
+            "author" => "Fabrizio De André",
+            "genre" => "Musica d'Autore",
+            "year" => "1971"
         ],
         [
-            "poster" => "https://images-na.ssl-images-amazon.com/images/I/810nSIQOLiL._SY355_.jpg",
-            "title" => "Brave new World",
-            "author" => "Iron Maiden",
-            "genre" => "Metal",
-            "year" => "2000"
+            "poster" => "https://upload.wikimedia.org/wikipedia/en/d/d6/Bob_Dylan_-_The_Freewheelin%27_Bob_Dylan.jpg",
+            "title" => "The Freewheelin' Bob Dylan",
+            "author" => "Bob Dylan",
+            "genre" => "Folk",
+            "year" => "1963"
         ],
         [
-            "poster" => "https://upload.wikimedia.org/wikipedia/en/9/97/Eric_Clapton_OMCOMR.jpg",
-            "title" => "One more car, one more raider",
-            "author" => "Eric Clapton",
-            "genre" => "Rock",
-            "year" => "2002"
+            "poster" => "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/TheBeatles68LP.jpg/330px-TheBeatles68LP.jpg",
+            "title" => "The Beatles",
+            "author" => "The Beatles",
+            "genre" => "Pop Rock",
+            "year" => "1968"
         ],
         [
-            "poster" => "https://images-na.ssl-images-amazon.com/images/I/51rggtPgmRL.jpg",
-            "title" => "Made in Japan",
-            "author" => "Deep Purple",
-            "genre" => "Rock",
-            "year" => "1972"
+            "poster" => "https://images-na.ssl-images-amazon.com/images/I/61opHabx4PL._AC_SX425_.jpg",
+            "title" => "At Folsom Prison",
+            "author" => "Johnny Cash",
+            "genre" => "Country Folk",
+            "year" => "1968"
         ],
         [
-            "poster" => "https://images-na.ssl-images-amazon.com/images/I/81r3FVfNG3L._SY355_.jpg",
-            "title" => "And Justice for All",
-            "author" => "Metallica",
-            "genre" => "Metal",
-            "year" => "1988"
-        ],
-        [
-            "poster" => "https://img.discogs.com/KOBsqQwKiNKH-q927oHMyVdDzSo=/fit-in/596x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6406665-1418464475-6120.jpeg.jpg",
-            "title" => "Hard Wired",
-            "author" => "Dave Weckl",
-            "genre" => "Jazz",
-            "year" => "1994"
-        ],
-        [
-            "poster" => "https://m.media-amazon.com/images/I/71K9CbNZPsL._SS500_.jpg",
-            "title" => "Bad",
-            "author" => "Michael Jacjson",
-            "genre" => "Pop",
-            "year" => "1987"
+            "poster" => "https://upload.wikimedia.org/wikipedia/en/1/16/Alleyezonme.jpg",
+            "title" => "All Eyez on Me",
+            "author" => "Tupac Shakur",
+            "genre" => "West Coast Hip Hop",
+            "year" => "1996"
         ]
     ]
 
